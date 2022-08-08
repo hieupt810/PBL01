@@ -1,0 +1,4 @@
+Nhap so loai vu khi khac nhau co trong tui: 
+Nhap so luong mau ban dau cua BOSS: 
+Nhap so lan toi da co the tan cong: 
+Nhap danh sach sat thuong cua cac loai vu khi: 
